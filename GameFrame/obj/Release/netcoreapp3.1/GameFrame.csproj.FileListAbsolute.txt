@@ -1,0 +1,14 @@
+D:\cgl\cgl.cs\GameFrame\GameFrame\bin\Release\netcoreapp3.1\GameFrame.exe
+D:\cgl\cgl.cs\GameFrame\GameFrame\bin\Release\netcoreapp3.1\GameFrame.deps.json
+D:\cgl\cgl.cs\GameFrame\GameFrame\bin\Release\netcoreapp3.1\GameFrame.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\GameFrame\bin\Release\netcoreapp3.1\GameFrame.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\GameFrame\bin\Release\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\GameFrame\bin\Release\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\GameFrame\obj\Release\netcoreapp3.1\GameFrame.genruntimeconfig.cache

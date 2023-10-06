@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1718,5): error : 项目“..\GameFrame\GameFrame.csproj”指向“netcoreapp3.1”。它不能被指向“.NETFramework,Version=v4.0”的项目引用。

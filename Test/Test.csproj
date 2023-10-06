@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aircraft Battle\Aircraft Battle.csproj" />
+    <ProjectReference Include="..\GameFrame\GameFrame.csproj" />
+    <ProjectReference Include="..\GameProgram\GameProgram.csproj" />
+    <ProjectReference Include="..\Gluttonous Snake\Gluttonous Snake.csproj" />
+    <ProjectReference Include="..\Mine clearance\Mine Clearance.csproj" />
+    <ProjectReference Include="..\ProjectManager\ProjectManager.csproj" />
+  </ItemGroup>
+
+</Project>

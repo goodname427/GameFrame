@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "InhCU8t/4mNf3Gme0MXLsvJANpF79Utu91EJqa8lmRQmoqo42zCajJRcjos2AEW0TzxW1zXr+7hXbgrsSGsOPg==",
+  "success": true,
+  "projectFilePath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\GameProgram\\GameProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

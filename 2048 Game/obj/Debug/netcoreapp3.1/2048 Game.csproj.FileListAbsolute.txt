@@ -1,0 +1,35 @@
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Aircraft Battle.deps.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Aircraft Battle.exe
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Gluttonous Snake.deps.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Gluttonous Snake.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Gluttonous Snake.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Gluttonous Snake.exe
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Mine Clearance.deps.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Mine Clearance.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Mine Clearance.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Mine Clearance.exe
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\2048 Game.exe
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\2048 Game.deps.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\2048 Game.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\2048 Game.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\2048 Game.dll
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\2048 Game.pdb
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Aircraft Battle.dll
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Gluttonous Snake.dll
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Mine Clearance.dll
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Gluttonous Snake.pdb
+D:\cgl\cgl.cs\GameFrame\2048 Game\bin\Debug\netcoreapp3.1\Mine Clearance.pdb
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.csproj.CopyComplete
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.dll
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.pdb
+D:\cgl\cgl.cs\GameFrame\2048 Game\obj\Debug\netcoreapp3.1\2048 Game.genruntimeconfig.cache

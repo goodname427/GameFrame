@@ -1,0 +1,51 @@
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.exe
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.deps.json
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.dll
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.pdb
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.dll
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.pdb
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.genruntimeconfig.cache
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CopyComplete
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.exe
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.deps.json
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.json
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.dev.json
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.dll
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.pdb
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.AssemblyReference.cache
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfoInputs.cache
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfo.cs
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CoreCompileInputs.cache
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CopyComplete
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.dll
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.pdb
+D:\cgl\cgl_cs\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.genruntimeconfig.cache
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.exe
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.deps.json
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.json
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.dev.json
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.dll
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.pdb
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.AssemblyReference.cache
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfoInputs.cache
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfo.cs
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CoreCompileInputs.cache
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CopyComplete
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.dll
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.pdb
+D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.genruntimeconfig.cache

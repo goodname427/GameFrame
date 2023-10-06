@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "NewGameFrame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/NewGameFrame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewGameFrame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewGameFrame/1.0.0": {
+      "type": "project",
+      "path": "../NewGameFrame/NewGameFrame.csproj",
+      "msbuildProject": "../NewGameFrame/NewGameFrame.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "NewGameFrame >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\CGL\\Programs\\CSharp\\GameFrame\\NewFrameTest\\NewFrameTest.csproj",
+      "projectName": "NewFrameTest",
+      "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\NewFrameTest\\NewFrameTest.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\NewFrameTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "E:\\CGL\\Programs\\CSharp\\GameFrame\\NewGameFrame\\NewGameFrame.csproj": {
+              "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\NewGameFrame\\NewGameFrame.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

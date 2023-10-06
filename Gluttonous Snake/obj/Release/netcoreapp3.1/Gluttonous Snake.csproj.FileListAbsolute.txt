@@ -1,0 +1,21 @@
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\GameFrame.deps.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\GameFrame.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\GameFrame.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\GameFrame.exe
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\Gluttonous Snake.exe
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\Gluttonous Snake.deps.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\Gluttonous Snake.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\Gluttonous Snake.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\Gluttonous Snake.dll
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\Gluttonous Snake.pdb
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\Release\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.csproj.CopyComplete
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.dll
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.pdb
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\obj\Release\netcoreapp3.1\Gluttonous Snake.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gluttonous Snake/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Gluttonous Snake.dll": {}
+        }
+      },
+      "GameFrame/1.0.0": {
+        "runtime": {
+          "GameFrame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gluttonous Snake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameFrame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

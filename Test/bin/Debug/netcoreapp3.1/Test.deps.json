@@ -1,0 +1,106 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0",
+          "GameProgram": "1.0.0",
+          "ProjectManager": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "Aircraft Battle/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Aircraft Battle.dll": {}
+        }
+      },
+      "GameFrame/1.0.0": {
+        "runtime": {
+          "GameFrame.dll": {}
+        }
+      },
+      "GameProgram/1.0.0": {
+        "dependencies": {
+          "Aircraft Battle": "1.0.0",
+          "GameFrame": "1.0.0",
+          "Gluttonous Snake": "1.0.0",
+          "Mine Clearance": "1.0.0"
+        },
+        "runtime": {
+          "GameProgram.dll": {}
+        }
+      },
+      "Gluttonous Snake/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Gluttonous Snake.dll": {}
+        }
+      },
+      "Mine Clearance/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Mine Clearance.dll": {}
+        }
+      },
+      "ProjectManager/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "ProjectManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aircraft Battle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameFrame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gluttonous Snake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mine Clearance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

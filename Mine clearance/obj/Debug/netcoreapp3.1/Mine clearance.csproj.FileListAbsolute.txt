@@ -1,0 +1,34 @@
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine clearance.exe
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine clearance.deps.json
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine clearance.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine clearance.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine clearance.dll
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine clearance.pdb
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.csproj.CopyComplete
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.dll
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.pdb
+D:\cgl\cgl.cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine clearance.genruntimeconfig.cache
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine Clearance.exe
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine Clearance.deps.json
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine Clearance.runtimeconfig.json
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine Clearance.runtimeconfig.dev.json
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine Clearance.dll
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\Mine Clearance.pdb
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl_cs\GameFrame\Mine clearance\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.csproj.AssemblyReference.cache
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.AssemblyInfoInputs.cache
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.AssemblyInfo.cs
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.csproj.CoreCompileInputs.cache
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.csproj.CopyComplete
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.dll
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.pdb
+D:\cgl\cgl_cs\GameFrame\Mine clearance\obj\Debug\netcoreapp3.1\Mine Clearance.genruntimeconfig.cache

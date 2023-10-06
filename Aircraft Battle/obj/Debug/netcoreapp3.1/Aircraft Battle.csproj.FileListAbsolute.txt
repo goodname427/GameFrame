@@ -1,0 +1,55 @@
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.AssemblyReference.cache
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.AssemblyInfoInputs.cache
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.AssemblyInfo.cs
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.CoreCompileInputs.cache
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.deps.json
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.exe
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.exe
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.deps.json
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.dll
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.pdb
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.dll
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.pdb
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.CopyComplete
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.dll
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.pdb
+C:\Users\86137\source\repos\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.genruntimeconfig.cache
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.exe
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.deps.json
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.dll
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.CopyComplete
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.dll
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl.cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.genruntimeconfig.cache
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.AssemblyReference.cache
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.AssemblyInfoInputs.cache
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.AssemblyInfo.cs
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.CoreCompileInputs.cache
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.dll
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.exe
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.deps.json
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.json
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.dev.json
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.dll
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.csproj.CopyComplete
+D:\cgl\cgl_cs\GameFrame\Aircraft Battle\obj\Debug\netcoreapp3.1\Aircraft Battle.genruntimeconfig.cache

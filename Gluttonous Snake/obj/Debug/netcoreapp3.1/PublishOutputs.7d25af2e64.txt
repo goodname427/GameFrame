@@ -1,0 +1,10 @@
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\GameFrame.exe
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\Gluttonous Snake.exe
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\GameFrame.deps.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\GameFrame.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\Gluttonous Snake.dll
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\Gluttonous Snake.deps.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\Gluttonous Snake.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\Gluttonous Snake.pdb
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\Gluttonous Snake\bin\publish\GameFrame.pdb

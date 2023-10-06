@@ -1,0 +1,17 @@
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\MapEditor.exe
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\MapEditor.deps.json
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\MapEditor.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\MapEditor.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\MapEditor.dll
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\MapEditor.pdb
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\MapEditor\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.csproj.CopyComplete
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.dll
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.pdb
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.genruntimeconfig.cache
+D:\cgl\cgl.cs\GameFrame\MapEditor\obj\Debug\netcoreapp3.1\MapEditor.csproj.AssemblyReference.cache

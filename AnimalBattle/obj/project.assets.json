@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aircraft Battle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Aircraft Battle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aircraft Battle.dll": {}
+        }
+      },
+      "GameFrame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/GameFrame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameFrame.dll": {}
+        }
+      },
+      "Gluttonous Snake/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Gluttonous Snake.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Gluttonous Snake.dll": {}
+        }
+      },
+      "Mine Clearance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Mine Clearance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mine Clearance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aircraft Battle/1.0.0": {
+      "type": "project",
+      "path": "../Aircraft Battle/Aircraft Battle.csproj",
+      "msbuildProject": "../Aircraft Battle/Aircraft Battle.csproj"
+    },
+    "GameFrame/1.0.0": {
+      "type": "project",
+      "path": "../GameFrame/GameFrame.csproj",
+      "msbuildProject": "../GameFrame/GameFrame.csproj"
+    },
+    "Gluttonous Snake/1.0.0": {
+      "type": "project",
+      "path": "../Gluttonous Snake/Gluttonous Snake.csproj",
+      "msbuildProject": "../Gluttonous Snake/Gluttonous Snake.csproj"
+    },
+    "Mine Clearance/1.0.0": {
+      "type": "project",
+      "path": "../Mine clearance/Mine Clearance.csproj",
+      "msbuildProject": "../Mine clearance/Mine Clearance.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Aircraft Battle >= 1.0.0",
+      "GameFrame >= 1.0.0",
+      "Gluttonous Snake >= 1.0.0",
+      "Mine Clearance >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\CGL\\Programs\\CSharp\\GameFrame\\AnimalBattle\\AnimalBattle.csproj",
+      "projectName": "AnimalBattle",
+      "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\AnimalBattle\\AnimalBattle.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\AnimalBattle\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\CGL\\Programs\\CSharp\\GameFrame\\Aircraft Battle\\Aircraft Battle.csproj": {
+              "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\Aircraft Battle\\Aircraft Battle.csproj"
+            },
+            "E:\\CGL\\Programs\\CSharp\\GameFrame\\GameFrame\\GameFrame.csproj": {
+              "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\GameFrame\\GameFrame.csproj"
+            },
+            "E:\\CGL\\Programs\\CSharp\\GameFrame\\Gluttonous Snake\\Gluttonous Snake.csproj": {
+              "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\Gluttonous Snake\\Gluttonous Snake.csproj"
+            },
+            "E:\\CGL\\Programs\\CSharp\\GameFrame\\Mine clearance\\Mine Clearance.csproj": {
+              "projectPath": "E:\\CGL\\Programs\\CSharp\\GameFrame\\Mine clearance\\Mine Clearance.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

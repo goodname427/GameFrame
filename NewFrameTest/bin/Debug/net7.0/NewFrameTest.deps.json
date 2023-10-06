@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NewFrameTest/1.0.0": {
+        "dependencies": {
+          "NewGameFrame": "1.0.0"
+        },
+        "runtime": {
+          "NewFrameTest.dll": {}
+        }
+      },
+      "NewGameFrame/1.0.0": {
+        "runtime": {
+          "NewGameFrame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewFrameTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewGameFrame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

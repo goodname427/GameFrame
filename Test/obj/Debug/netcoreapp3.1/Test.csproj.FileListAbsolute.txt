@@ -1,0 +1,86 @@
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.deps.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.exe
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.deps.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.deps.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.exe
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.exe
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.dll
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.dll
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.dll
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.pdb
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.pdb
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.pdb
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\86137\source\repos\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.deps.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.dev.json
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.exe
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.dll
+C:\Users\86137\source\repos\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.deps.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.exe
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.deps.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.deps.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.exe
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.exe
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Aircraft Battle.pdb
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameFrame.pdb
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\GameProgram.pdb
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Gluttonous Snake.pdb
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\cgl\cgl.cs\GameFrame\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Mine clearance.deps.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Mine clearance.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Mine clearance.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Mine clearance.exe
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\ProjectManager.deps.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\ProjectManager.runtimeconfig.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\ProjectManager.runtimeconfig.dev.json
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\ProjectManager.exe
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Mine clearance.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\ProjectManager.dll
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\Mine clearance.pdb
+D:\cgl\cgl.cs\GameFrame\Test\bin\Debug\netcoreapp3.1\ProjectManager.pdb

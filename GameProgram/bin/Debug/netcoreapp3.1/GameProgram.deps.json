@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GameProgram/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "GameProgram.dll": {}
+        }
+      },
+      "Aircraft Battle/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Aircraft Battle.dll": {}
+        }
+      },
+      "GameFrame/1.0.0": {
+        "runtime": {
+          "GameFrame.dll": {}
+        }
+      },
+      "Gluttonous Snake/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Gluttonous Snake.dll": {}
+        }
+      },
+      "Mine Clearance/1.0.0": {
+        "dependencies": {
+          "GameFrame": "1.0.0"
+        },
+        "runtime": {
+          "Mine Clearance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aircraft Battle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameFrame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gluttonous Snake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mine Clearance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
