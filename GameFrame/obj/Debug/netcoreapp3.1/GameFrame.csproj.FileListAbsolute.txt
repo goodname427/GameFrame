@@ -42,3 +42,13 @@ D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\GameFram
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.csproj.CoreCompileInputs.cache
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.dll
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.pdb
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.deps.json
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.dll
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\bin\Debug\netcoreapp3.1\GameFrame.pdb
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.csproj.AssemblyReference.cache
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.GeneratedMSBuildEditorConfig.editorconfig
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.AssemblyInfoInputs.cache
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.AssemblyInfo.cs
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.csproj.CoreCompileInputs.cache
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.dll
+E:\CGL\Programs\CSharp\GameFrame\GameFrame\obj\Debug\netcoreapp3.1\GameFrame.pdb

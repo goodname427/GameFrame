@@ -49,3 +49,20 @@ D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Re
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.dll
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.pdb
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.genruntimeconfig.cache
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.exe
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.deps.json
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.json
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.runtimeconfig.dev.json
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.dll
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\Rogue Remake.pdb
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.dll
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\bin\Debug\netcoreapp3.1\GameFrame.pdb
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.AssemblyReference.cache
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.GeneratedMSBuildEditorConfig.editorconfig
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfoInputs.cache
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.AssemblyInfo.cs
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CoreCompileInputs.cache
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.csproj.CopyComplete
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.dll
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.pdb
+E:\CGL\Programs\CSharp\GameFrame\Rogue Remake\obj\Debug\netcoreapp3.1\Rogue Remake.genruntimeconfig.cache

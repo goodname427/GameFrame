@@ -58,14 +58,7 @@ namespace NewGameFrame
         /// <returns></returns>
         public T? GetComponet<T>() where T : Componet
         {
-            try
-            {
-                return _componets.First(c => c is T) as T;
-            }
-            catch
-            {
-                return null;
-            }
+            return _componets.FirstOrDefault(c => c is T) as T;
         }
     }
 }
