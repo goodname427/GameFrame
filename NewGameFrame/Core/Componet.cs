@@ -1,5 +1,4 @@
 ﻿using NewGameFrame.MathCore;
-using System.Security.AccessControl;
 
 namespace NewGameFrame.Core
 {
