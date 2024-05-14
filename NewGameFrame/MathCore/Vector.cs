@@ -35,6 +35,16 @@
             return vector.Operate(c => c / num);
         }
 
+        public static bool operator ==(Vector left, Vector right)
+        {
+            return left.X == right.X && left.Y == right.Y && left.Z == right.Z;
+        }
+
+        public static bool operator !=(Vector left, Vector right)
+        {
+            return !(left == right);
+        }
+
         public int X { get; set; }
         public int Y { get; set; }
         public int Z { get; set; }
@@ -47,7 +57,7 @@
             Z = z;
         }
 
-        public override string ToString()
+        public override readonly string ToString()
         {
             return $"({X},{Y})";
         }

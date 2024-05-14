@@ -1,5 +1,6 @@
 ﻿using NewGameFrame.MathCore;
 using NewGameFrame.Render;
+using System.Security.Cryptography;
 
 namespace NewGameFrame.Core
 {
@@ -19,15 +20,23 @@ namespace NewGameFrame.Core
             _ = new Screen();
             game.Init();
             var step = -1;
+            Scene? scene = null;
             while (game.Step >= 0)
             {
                 //更换场景
-                if (step != game.Step)
+                if (step != game.Step || scene is null)
                 {
-                    game.Scenes[game.Step].Start();
+                    scene = game.GetScene(game.Step);
+                    if (scene is null)
+                    {
+                        throw new ArgumentNullException(nameof(scene));
+                    }
+
+                    step = game.Step;
+                    scene.Start();
                 }
                 //场景更新
-                game.Scenes[game.Step].Update();
+                scene.Update();
             }
         }
     }

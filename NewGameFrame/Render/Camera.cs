@@ -28,7 +28,7 @@ namespace NewGameFrame.Render
             ProjectScreen = Screen.Instance;
         }
 
-        private Image _renderCache = new();
+        private readonly Image _renderCache = new();
         
         /// <summary>
         /// 获取映射的地图

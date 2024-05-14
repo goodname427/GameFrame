@@ -1,46 +1,47 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using NewGameFrame.MathCore;
 using System.Collections.ObjectModel;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NewGameFrame.MathCore;
 
 namespace NewGameFrame.Core
 {
     public class GameObject
     {
-        private readonly List<Componet> _componets = new();
-
-        /// <summary>
-        /// 游戏物体的位置
-        /// </summary>
-        public Vector Position { get; set; } = Vector.Zero;
-
         /// <summary>
         /// 游戏物体所属的场景
         /// </summary>
         public Scene OwnerScene { get; set; }
 
         /// <summary>
+        /// 游戏物体的名称
+        /// </summary>
+        public string Name { get; set; } = string.Empty;
+        /// <summary>
+        /// 游戏物体的位置
+        /// </summary>
+        public Vector Position { get; set; } = Vector.Zero;
+
+        public GameObject() : this(Scene.CurrentScene, string.Empty)
+        {
+
+        }
+        public GameObject(Scene? scene, string name = "")
+        {
+            if (scene is null)
+                throw new ArgumentNullException(nameof(scene));
+
+            OwnerScene = scene;
+            scene.GameObjects.Add(this);
+
+            Name = name;
+        }
+
+        /// <summary>
+        /// 所有组件
+        /// </summary>
+        private readonly List<Componet> _componets = new();
+        /// <summary>
         /// 游戏物体带有的组件
         /// </summary>
         public ReadOnlyCollection<Componet> Componets => _componets.AsReadOnly();
-
-        public GameObject()
-        {
-            if (Scene.CurrentScene is null)
-                throw new ArgumentNullException(nameof(Scene.CurrentScene));
-
-            OwnerScene = Scene.CurrentScene;
-            Scene.CurrentScene.GameObjects.Add(this);
-        }
-        public GameObject(Scene scene)
-        {
-            OwnerScene = scene;
-            scene.GameObjects.Add(this);
-        }
 
         /// <summary>
         /// 添加组件

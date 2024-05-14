@@ -1,5 +1,6 @@
 ﻿using NewGameFrame.Core;
 using NewGameFrame.MathCore;
+using System.Runtime.InteropServices;
 
 namespace NewGameFrame.Render
 {
@@ -13,6 +14,10 @@ namespace NewGameFrame.Render
         /// 光标停靠位置
         /// </summary>
         public Vector CursorHoldPosition { get; set; } = new Vector(0, Console.WindowHeight - 1);
+        /// <summary>
+        /// 提示信息
+        /// </summary>
+        public string HUD { get; set; } = "";
 
         public Screen()
         {
@@ -52,6 +57,7 @@ namespace NewGameFrame.Render
                 }
             }
             Console.SetCursorPosition(CursorHoldPosition.X, CursorHoldPosition.Y);
+            Console.Write(HUD);
         }
     }
 }
