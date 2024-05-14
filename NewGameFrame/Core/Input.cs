@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using NewGameFrame.MathCore;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace NewGameFrame
+namespace NewGameFrame.Core
 {
     public static class Input
     {
@@ -23,7 +19,9 @@ namespace NewGameFrame
         /// <summary>
         /// 检测是否有任何键按下
         /// </summary>
-        public static bool AnyKey => GetInput() is not null;
+        public static bool AnyKey => CurrentInput is not null;
+
+        public static ConsoleKey? CurrentInput { get; private set; }
 
         /// <summary>
         /// 获取输入
@@ -31,12 +29,12 @@ namespace NewGameFrame
         /// <returns></returns>
         public static ConsoleKey? GetInput()
         {
+            CurrentInput = null;
             if (Console.KeyAvailable)
             {
-                var key = Console.ReadKey().Key;
-                return key;
+                CurrentInput = Console.ReadKey().Key;
             }
-            return null;
+            return CurrentInput;
         }
         /// <summary>
         /// 判断是否输入指定键
@@ -45,7 +43,7 @@ namespace NewGameFrame
         /// <returns></returns>
         public static bool GetKey(ConsoleKey key)
         {
-            return GetInput() == key;
+            return CurrentInput == key;
         }
         /// <summary>
         /// 获取横轴向
@@ -53,7 +51,7 @@ namespace NewGameFrame
         /// <returns></returns>
         public static int GetHorizontal()
         {
-            return GetInput() switch
+            return CurrentInput switch
             {
                 ConsoleKey.D => 1,
                 ConsoleKey.A => -1,
@@ -66,7 +64,7 @@ namespace NewGameFrame
         /// <returns></returns>
         public static int GetVertical()
         {
-            return GetInput() switch
+            return CurrentInput switch
             {
                 ConsoleKey.W => 1,
                 ConsoleKey.S => -1,
@@ -79,7 +77,7 @@ namespace NewGameFrame
         /// <returns></returns>
         public static Vector GetDirection()
         {
-            return GetInput() switch
+            return CurrentInput switch
             {
                 ConsoleKey.W => Vector.Up,
                 ConsoleKey.S => Vector.Down,

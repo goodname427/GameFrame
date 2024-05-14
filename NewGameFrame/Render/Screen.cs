@@ -1,4 +1,7 @@
-﻿namespace NewGameFrame
+﻿using NewGameFrame.Core;
+using NewGameFrame.MathCore;
+
+namespace NewGameFrame.Render
 {
     public class Screen
     {
@@ -14,7 +17,7 @@
         public Screen()
         {
             Console.CursorVisible = false;
-            Update(new char[0, 0]);
+            Update(new Image());
             Instance = this;
         }
 
@@ -33,8 +36,8 @@
         /// <summary>
         /// 更新屏幕
         /// </summary>
-        /// <param name="map"></param>
-        public void Update(char[,] map)
+        /// <param name="renderCache"></param>
+        public void Update(Image renderCache)
         {
             if (Map.IsOutSide(_console, new(Console.WindowWidth / 2, Console.WindowHeight / 2)))
                 _console = Map.GetNewSizeMap(_console, Console.WindowWidth / 2, Console.WindowHeight / 2);
@@ -44,8 +47,8 @@
             {
                 for (int j = 0; j < height; j++)
                 {
-                    if (!Map.IsOutSide(map, new(i, j)) && _console[i, j] != map[i, j])
-                        SetImage(i, j, map[i, j]);
+                    if (!Map.IsOutSide(renderCache.Data, new(i, j)) && _console[i, j] != renderCache[i, j])
+                        SetImage(i, j, renderCache[i, j]);
                 }
             }
             Console.SetCursorPosition(CursorHoldPosition.X, CursorHoldPosition.Y);

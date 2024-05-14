@@ -1,4 +1,6 @@
-﻿using NewGameFrame;
+﻿using NewGameFrame.MathCore;
+using NewGameFrame.Core;
+using NewGameFrame.Render;
 
 namespace NewFrameTest
 {
@@ -12,15 +14,14 @@ namespace NewFrameTest
         {
             var scene = GameManager.CreatScene();
             Scenes[0] = scene;
-            for (int i = -10; i <= 10; i++)
-            {
-                for (int j = -10; j <= 10; j++)
-                {
-                    _ = new GameObject(scene) { Position = new(i, -j), Image = '.' };
-                }
-            }
-            var p = new GameObject(scene) { Position = new Vector(0, 0, 1), Image = '#' };
+      
+            _ = new GameObject(scene) { Position = new(0, 0)}.AddComponet<Renderer>().Image = new('.', 21, 21);
+
+            var p = new GameObject(scene) { Position = new Vector(0, 0, 1) };
+            p.AddComponet<Renderer>().Image = new('#', 3, 3);
             p.AddComponet<Move>();
+
+            Step = 0;
         }
     }
 }

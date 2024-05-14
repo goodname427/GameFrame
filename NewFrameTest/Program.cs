@@ -1,4 +1,4 @@
 ﻿using NewFrameTest;
-using NewGameFrame;
+using NewGameFrame.Core;
 
 GameManager.Start(new Game());

@@ -5,8 +5,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NewGameFrame.MathCore;
 
-namespace NewGameFrame
+namespace NewGameFrame.Core
 {
     public class GameObject
     {
@@ -16,10 +17,12 @@ namespace NewGameFrame
         /// 游戏物体的位置
         /// </summary>
         public Vector Position { get; set; } = Vector.Zero;
+
         /// <summary>
-        /// 游戏物体的图像
+        /// 游戏物体所属的场景
         /// </summary>
-        public char Image { get; set; } = '\0';
+        public Scene OwnerScene { get; set; }
+
         /// <summary>
         /// 游戏物体带有的组件
         /// </summary>
@@ -27,13 +30,15 @@ namespace NewGameFrame
 
         public GameObject()
         {
-            if (Scene.Instance is null)
-                throw new ArgumentNullException(nameof(Scene.Instance));
+            if (Scene.CurrentScene is null)
+                throw new ArgumentNullException(nameof(Scene.CurrentScene));
 
-            Scene.Instance.GameObjects.Add(this);
+            OwnerScene = Scene.CurrentScene;
+            Scene.CurrentScene.GameObjects.Add(this);
         }
         public GameObject(Scene scene)
         {
+            OwnerScene = scene;
             scene.GameObjects.Add(this);
         }
 

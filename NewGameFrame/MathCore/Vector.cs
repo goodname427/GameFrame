@@ -1,4 +1,4 @@
-﻿namespace NewGameFrame
+﻿namespace NewGameFrame.MathCore
 {
     public struct Vector
     {
@@ -20,7 +20,7 @@
         }
         public static Vector operator -(Vector left, Vector right)
         {
-            return left + (-right);
+            return left + -right;
         }
         public static Vector operator *(Vector vector, int num)
         {

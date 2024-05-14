@@ -1,6 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
+using NewGameFrame.Core;
 
-namespace NewGameFrame
+namespace NewGameFrame.Physics
 {
     public class Collider : Componet
     {

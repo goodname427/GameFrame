@@ -1,4 +1,7 @@
-﻿namespace NewGameFrame
+﻿using NewGameFrame.MathCore;
+using System.Reflection.Emit;
+
+namespace NewGameFrame.Core
 {
     public class Map
     {
@@ -10,24 +13,36 @@
         /// <returns></returns>
         protected static char TryGetValue(char[,] quadrant, Vector position)
         {
-            position = position.Abs;
-            return IsOutSide(quadrant, position) ? '\0' : quadrant[position.X, position.Y];
+            return IsOutSide(quadrant, position) ? '[' : quadrant[position.X, position.Y];
         }
         /// <summary>
         /// 获取位置所在象限索引
         /// </summary>
         /// <param name="position"></param>
         /// <returns></returns>
-        protected static int GetQuadrantIndex(Vector position)
+        protected static int GetQuadrantIndexAndPosition(ref Vector position)
         {
-            return position switch
+            if (position.X >= 0 && position.Y >= 0)
             {
-                { X: 0, Y: 0 } => 0,
-                { X: >= 0, Y: >= 0 } => 0,
-                { X: < 0, Y: > 0 } => 1,
-                { X: <= 0, Y: <= 0 } => 2,
-                { X: > 0, Y: < 0 } => 3,
-            };
+                return 0;
+            }
+            else if (position.X < 0 && position.Y >= 0)
+            {
+                position.X = Math.Abs(position.X) - 1;
+                return 1;
+            }
+            else if (position.X < 0 && position.Y < 0)
+            {
+                position.X = Math.Abs(position.X) - 1;
+                position.Y = Math.Abs(position.Y) - 1;
+                return 2;
+            }
+            else
+            {
+                position.Y = Math.Abs(position.Y) - 1;
+                return 3;
+            }
+
         }
         /// <summary>
         /// 获取新尺寸的地图
@@ -60,9 +75,8 @@
         /// <returns></returns>
         public static bool IsOutSide(char[,] quadrant, Vector position)
         {
-            position = position.Abs;
             var (width, height) = (quadrant.GetLength(0), quadrant.GetLength(1));
-            return position.X >= width || position.Y >= height;
+            return position.X >= width || position.Y >= height || position.X < 0 || position.Y < 0;
         }
 
         private readonly char[][,] _quadrant = new char[][,] { new char[0, 0], new char[0, 0], new char[0, 0], new char[0, 0] };
@@ -71,15 +85,18 @@
         {
             get
             {
-                var index = GetQuadrantIndex(position);
+                var index = GetQuadrantIndexAndPosition(ref position);
                 return TryGetValue(_quadrant[index], position);
             }
             set
             {
-                var index = GetQuadrantIndex(position);
-                position = position.Abs;
+                var index = GetQuadrantIndexAndPosition(ref position);
+
                 if (IsOutSide(_quadrant[index], position))
-                    _quadrant[index] = GetNewSizeMap(_quadrant[index], position.X + 1, position.Y + 1);
+                {
+                    _quadrant[index] = GetNewSizeMap(_quadrant[index], Math.Max(_quadrant[index].GetLength(0), position.X + 1), Math.Max(_quadrant[index].GetLength(1), position.Y + 1));
+                }
+
                 _quadrant[index][position.X, position.Y] = value;
             }
         }
@@ -103,10 +120,12 @@
             foreach (var quadrant in _quadrant)
             {
                 for (int i = 0; i < quadrant.GetLength(0); i++)
+                {
                     for (int j = 0; j < quadrant.GetLength(1); j++)
                     {
                         quadrant[i, j] = '\0';
                     }
+                }
             }
         }
 

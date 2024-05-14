@@ -10,3 +10,15 @@ D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\NewGameF
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\NewGameFrame\obj\Debug\net7.0\refint\NewGameFrame.dll
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.pdb
 D:\cgl\cgl_program\cgl_program_language\cgl_cs\cgl_cs_project\GameFrame\NewGameFrame\obj\Debug\net7.0\ref\NewGameFrame.dll
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\bin\Debug\net7.0\NewGameFrame.deps.json
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\bin\Debug\net7.0\NewGameFrame.dll
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\bin\Debug\net7.0\NewGameFrame.pdb
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.AssemblyInfoInputs.cache
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.AssemblyInfo.cs
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.csproj.CoreCompileInputs.cache
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.sourcelink.json
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.dll
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\refint\NewGameFrame.dll
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\NewGameFrame.pdb
+C:\Users\galenglchen\source\repos\GameFrame\NewGameFrame\obj\Debug\net7.0\ref\NewGameFrame.dll

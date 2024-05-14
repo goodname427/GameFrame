@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewGameFrame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4541b848c200ff87a8a8d16d1a3c0fae8ff91ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewGameFrame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewGameFrame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
